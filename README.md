@@ -36,9 +36,9 @@
 ---
 
 ## 🛠️ Technical Stack
-* **Transmitter:** RadioMaster Pocket (Internal/External ELRS)
-* **Protocol:** CRSF (Crossfire / ExpressLRS)
-* **Processing:** ESP32 / Arduino Framework
+* **Transmitter:** RadioMaster Pocket (Internal ELRS)
+* **Protocol:** +ExpressLRS (Crossfire / ExpressLRS)
+* **Processing:** ESP32 / Arduino Framework / Rasberry pi
 * **Data Logging:** Python (for laptop data analysis)
 
 ---

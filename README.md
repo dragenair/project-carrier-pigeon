@@ -18,6 +18,7 @@
 ## 🚀 Development Roadmap
 
 ### Phase 1: The Handshake (Current)
+* [x] **Learning:** Watching the tutorials #8th april
 * [ ] **Binding:** Establish a solid link between the RadioMaster Pocket and the ELRS receiver.
 * [ ] **Telemetry:** Verify link quality (LQ) and RSSI feedback.
 * [ ] **Serial Bridge:** Output raw CRSF packet data to a laptop via Serial for monitoring.

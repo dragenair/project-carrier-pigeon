@@ -1,6 +1,6 @@
 # project-carrier-pigeon
 
-Start - 8th April
+* Start - 8th April
 
-## Idea
-[]establish a communication between the controller and the reciever
+### Idea
+>- []establish a communication between the controller and the reciever
